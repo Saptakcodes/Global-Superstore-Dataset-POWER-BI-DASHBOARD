@@ -52,11 +52,11 @@ It helps identify:
 
 ## 📈 Screenshots
 
-![Dashboard Screenshot 1](images/POWERBI-SAPTAK-D-1.png)  
-![Dashboard Screenshot 2](images/POWERBI-SAPTAK-D-2.png)  
-![Dashboard Screenshot 3](images/POWERBI-SAPTAK-D-3.png)  
-![Dashboard Screenshot 4](images/POWERBI-SAPTAK-D-4.png)  
-![Dashboard Screenshot 5](images/POWERBI-SAPTAK-D-5.png)  
+![Dashboard Screenshot 1](POWERBI-SAPTAK-D-1.png)  
+![Dashboard Screenshot 2](POWERBI-SAPTAK-D-2.png)  
+![Dashboard Screenshot 3](POWERBI-SAPTAK-D-3.png)  
+![Dashboard Screenshot 4](POWERBI-SAPTAK-D-4.png)  
+![Dashboard Screenshot 5](POWERBI-SAPTAK-D-5.png)  
 
 ---
 

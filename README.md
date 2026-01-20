@@ -52,7 +52,11 @@ It helps identify:
 
 ## 📈 Screenshots
 
-*(Add your dashboard screenshots here for visualization.)*
+![Dashboard Screenshot 1](images/POWERBI-SAPTAK-D-1.png)  
+![Dashboard Screenshot 2](images/POWERBI-SAPTAK-D-2.png)  
+![Dashboard Screenshot 3](images/POWERBI-SAPTAK-D-3.png)  
+![Dashboard Screenshot 4](images/POWERBI-SAPTAK-D-4.png)  
+![Dashboard Screenshot 5](images/POWERBI-SAPTAK-D-5.png)  
 
 ---
 
